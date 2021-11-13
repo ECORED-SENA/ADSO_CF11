@@ -27,7 +27,6 @@
         .bg--blue.neg--right.mb-4
           p.mb-0 Cuando se tiene el insumo principal, que es toda la información requerida y analizada, se empieza a estructurar la propuesta que debe tener el siguiente esquema:
           
-          
         .row.justify-content-center.mb-4
           .col-md-10
             ul.lista-ul.ps-md-0
