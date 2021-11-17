@@ -42,7 +42,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Términos de referencia (TdR)',
+            titulo: 'Términos de Referencia (TdR)',
             hash: 't_2_2',
           },
           {
@@ -118,18 +118,18 @@ export default {
   referencias: [
     {
       referencia:
-        'American Psychological Association (2020). <em>Normas APA: Cómo presentar trabajos escritos.</em>. NORMASAPA.',
+        'American Psychological Association (2020). Normas APA: Cómo presentar trabajos escritos. NORMASAPA.',
       link: 'https://normasapa.in/',
     },
     {
       referencia:
-        'Castro, E. (17de julio de 2020). ¿Cómo presentar una propuesta de proyecto de software? <em>Anton.agency.</em>',
+        'Castro, E. (17 de julio de 2020). ¿Cómo presentar una propuesta de proyecto de <em>software</em>? <em>Anton.agency.</em>',
       link:
         'https://anton.agency/como-presentar-una-propuesta-proyecto-software/',
     },
     {
       referencia:
-        'Colombia compra eficiente. (2020, 20 noviembre). Acuerdos marco. DNP.',
+        'Colombia Compra Eficiente. (2020, 20 noviembre). Acuerdos Marco. DNP.',
       link:
         'https://colombiacompra.gov.co/ciudadanos/preguntas-frecuentes/acuerdos-marco',
     },
@@ -138,13 +138,12 @@ export default {
       link: 'https://deconceptos.com/?s=contrato',
     },
     {
-      referencia:
-        'Lozano, A. (2019). Teoría de los presupuestos. <em>Gestiopolis</em>',
+      referencia: 'Lozano, A. (2019). Teoría de los presupuestos. Gestiopolis.',
       link: 'https://www.gestiopolis.com/teoria-de-los-presupuestos',
     },
     {
       referencia:
-        'Ministerio de Comercio, Industria y Turismo (2013). <em>Contratación Pública.</em> APLICACIONES-MCIT.',
+        'Ministerio de Comercio, Industria y Turismo (2013). Contratación Pública. APLICACIONES-MCIT.',
       link: 'http://www.aplicaciones-mcit.gov.co/cincopasos/c2.html',
     },
   ],
@@ -178,14 +177,14 @@ export default {
   complementario: [
     {
       texto:
-        'Starfish Host. (2020). <em>Cómo hacer una propuesta de Software - ¡Presenta una propuesta de software exitosa!</em>',
+        'Starfish Host. (2020). Cómo hacer una propuesta de <em>Software</em> - ¡Presenta una propuesta de software exitosa! [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=6zI4ZcRS8yg',
     },
     {
       texto:
-        'Ministerio de Comercio, Industria y Turismo. (2013).<em> Contratación Pública.</em> ',
-      tipo: 'Articulo',
+        'Ministerio de Comercio, Industria y Turismo. (2013). Contratación Pública.',
+      tipo: 'Artículo',
       link: ['http://www.aplicaciones-mcit.gov.co/cincopasos/c2.html'],
       //link: ['https://www.google.com/', 'https://www.google.com/'],
     },
@@ -209,30 +208,30 @@ export default {
         nombre: 'Mario Fernando Meneses Calvache',
         cargo: 'Experto temático',
         centro:
-          'Centro de teleinformática y producción industrial - Regional Cauca',
+          'Centro de Teleinformática y Producción Industrial - Regional Cauca',
       },
       {
         nombre: 'Jonathan Guerrero Astaiza',
         cargo: 'Instructor',
         centro:
-          'Centro de teleinformática y producción industrial - Regional Cauca',
+          'Centro de Teleinformática y Producción Industrial - Regional Cauca',
       },
       {
         nombre: 'Zulema León',
-        cargo: 'Instructor',
+        cargo: 'Instructora',
         centro:
-          'Centro de teleinformática y producción industrial - Regional Cauca',
+          'Centro de Teleinformática y Producción Industrial - Regional Cauca',
       },
       {
         nombre: 'Carlos Hernán Muñoz',
         cargo: 'Experto temático',
         centro:
-          'Centro de teleinformática y producción industrial - Regional Cauca',
+          'Centro de Teleinformática y Producción Industrial - Regional Cauca',
       },
       {
         nombre: 'Fabián Leonardo Correa Díaz',
         cargo: 'Diseñador instruccional',
-        centro: 'Centro agropecuario La Granja - Regional Tolima',
+        centro: 'Centro Agropecuario La Granja - Regional Tolima',
       },
       {
         nombre: 'Ana Catalina Córdoba Sus',
@@ -244,7 +243,7 @@ export default {
         nombre: 'Sandra Patricia Hoyos Sepúlveda',
         cargo: 'Revisión y corrección de estilo ',
         centro:
-          'Centro para la Industria de la Comunicación Gráfica - Distrito capital',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -260,8 +259,49 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: ['Luis Arévalo'],
+        nombre: ['Luis Arévalo Mantilla'],
         cargo: 'Diseño web',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy María Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'María Carolina Tamayo López ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ángela María Maldonado Jaime',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ernesto Navarro Jaimes',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'John Jairo Arciniegas González',
+        cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
@@ -278,22 +318,11 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Zuleidy María Ruiz Torres',
-        cargo: 'Producción audiovisual',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      /*{
-        nombre: '',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },*/
+      },
     ],
     gestoresRepositorio: [
       {

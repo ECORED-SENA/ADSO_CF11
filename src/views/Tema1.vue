@@ -12,7 +12,7 @@
     .row.justify-content-center.mb-5
       .col-lg-6.mb-4.mb-lg-0.ontop.pt-lg-4
         .bg--blue.neg--right.mb-4
-          p.mb-0 Para el diseño, construcción y presentación de la propuesta técnica de servicios de software, se deben considerar aspectos y elementos de suma importancia que dan carácter a la misma y que otorgan, tanto al oferente como al cliente, seguridad y confianza.
+          p.mb-0 Para el diseño, construcción y presentación de la propuesta técnica de servicios de <em>software,</em> se deben considerar aspectos y elementos de suma importancia que dan carácter a la misma y que otorgan, tanto al oferente como al cliente, seguridad y confianza.
         p.mb-4 Para el éxito de una propuesta técnica se deberá tener claridad en aspectos vitales como: 
         .row.justify-content-center.mb-4
           .col-md-11
@@ -31,7 +31,7 @@
                 p.mb-0 Estructura lógica de la propuesta.
               li 
                 i.fas.fa-layer-group.pe-3
-                p.mb-0 Características del software, entre otras.
+                p.mb-0 Características del <em>software,</em> entre otras.
       
       .col-10.col-lg-6
         figure(data-aos="fade-left" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="500")
@@ -80,7 +80,7 @@
                           .row
                             .col.align-self-center.pe-0
                               h5(style='color: #104C82') Adición de contrato
-                              p.mb-0 Adición que se puede hacer en tiempo y/o valor. Si es en valor SÓLO se puede adicionar hasta el 50% del valor inicial del contrato y nunca exceder este tope.
+                              p.mb-0 Adición que se puede hacer en tiempo y/o valor. Si es en valor SOLO se puede adicionar hasta el 50 % del valor inicial del contrato y nunca exceder este tope.
                             .col-auto.align-self-center
                               figure
                                 img.mx-auto(src='@/assets/curso/tema1/icon9.svg', alt='imagen ambiental', style='width: 64px')
@@ -134,7 +134,7 @@
                           .row
                             .col.align-self-center.pe-0
                               h5(style='color: #104C82') Monetización
-                              p.mb-0 Proceso por medio del cual una determinada acción es convertida en dinero. Término usado, generalmente, en redes sociales y plataformas con streaming.
+                              p.mb-0 Proceso por medio del cual una determinada acción es convertida en dinero. Término usado, generalmente, en redes sociales y plataformas con <em>streaming.</em>
                             .col-auto.align-self-center
                               figure
                                 img.mx-auto(src='@/assets/curso/tema1/icon13.svg', alt='imagen ambiental', style='width: 64px')
@@ -160,7 +160,7 @@
                           .row
                             .col.align-self-center.pe-0
                               h5(style='color: #104C82') Licitación
-                              p.mb-0  Procedimiento formal por cual un organismo público demanda obras, servicios, bienes, entre otros, al sector privado.
+                              p.mb-0  Procedimiento formal por el cual un organismo público demanda obras, servicios, bienes, entre otros, al sector privado.
                             .col-auto.align-self-center
                               figure
                                 img.mx-auto(src='@/assets/curso/tema1/icon15.svg', alt='imagen ambiental', style='width: 64px')
@@ -172,7 +172,7 @@
                         .p-4.ps-2.pe-1
                           .row
                             .col.align-self-center.pe-0
-                              h5(style='color: #104C82') Freelance
+                              h5(style='color: #104C82') <em>Freelance</em>
                               p.mb-0  Trabajo o trabajador independiente.
                             .col-auto.align-self-center
                               figure
@@ -201,7 +201,7 @@
                     p.mb-0 Solicitar información sobre cómo interactúa la compañía, su modelo de negocios, procesos y procedimientos, comprendiendo necesidades del cliente y sugiriendo nuevas soluciones a problemas que aún no detectan.
                   
                   .tarjeta.color-secundario.p-3(x="72%" y="40%" numero="", style='background-color: #1565C0')
-                    p.mb-0 Solicitar conocer el presupuesto que el cliente tiene destinado para ejecutar este proyecto, en algunos hay que amoldarse a él y cubrir necesidades de mayor prioridad y en otros casos se puede negociar ofreciendo más servicios o módulos extras, generado así más recursos.
+                    p.mb-0 Solicitar conocer el presupuesto que el cliente tiene destinado para ejecutar este proyecto, en algunos casos hay que amoldarse a él y cubrir necesidades de mayor prioridad y en otros casos se puede negociar ofreciendo más servicios o módulos extras, generado así más recursos.
                   
                 
           .pb-0(titulo="Costos" :icono="require('@/assets/curso/tema1/icon4.svg')")
@@ -217,7 +217,7 @@
                             img.mx-auto(src='@/assets/curso/tema1/icon5.svg', alt='', style='width: 150px')
                           
                       h5.text-center El costo
-                      p.mb-4.text-center También llamado coste, es el valor económico que se cobra por realizar un producto, prestar un servicio o vender un bien, aquí se debe tener en cuenta la adquisición de insumos y los gastos que se derivan de la producción, como el pago de la mano de obra, administrativos etc. 
+                      p.mb-4.text-center También llamado coste, es el valor económico que se cobra por realizar un producto, prestar un servicio o vender un bien, aquí se debe tener en cuenta la adquisición de insumos y los gastos que se derivan de la producción, como el pago de la mano de obra, administrativos, etc. 
                       
                   .col-10.col-lg-4.mb-4.mb-lg-0
                     .tarjeta--boton.color-primario.p-4
@@ -227,7 +227,7 @@
                             img.mx-auto(src='@/assets/curso/tema1/icon6.svg', alt='', style='width: 150px')
                           
                       h5.text-center En este caso en particular
-                      p.mb-4.text-center La estimación del costo de desarrollo de software es un factor sumamente importante en el análisis del proyecto informático y propuesta técnica. Hay que tener en cuenta el esfuerzo, costo y tiempo de las actividades que se realizará en el proyecto.
+                      p.mb-4.text-center La estimación del costo de desarrollo de <em>software</em> es un factor sumamente importante en el análisis del proyecto informático y propuesta técnica. Hay que tener en cuenta el esfuerzo, costo y tiempo de las actividades que se realizarán en el proyecto.
                       
                   .col-10.col-lg-4.mb-4.mb-lg-0
                     .tarjeta--boton.color-primario.p-4
@@ -236,8 +236,8 @@
                           figure
                             img.mx-auto(src='@/assets/curso/tema1/icon7.svg', alt='', style='width: 150px')
                           
-                      h5.text-center Al planear los costos, tenga en cuenta
-                      p.mb-0.text-center Tamaño del software que se realizará, tiempo estimado de producción. ¿Se realizará el trabajo por módulos? ¿Se necesita contratar personal de apoyo para la producción y/o soporte? ¿Cómo se dará soporte técnico? (Por cuanto tiempo, presencial o remoto). ¿Se necesita adquirir equipos tecnológicos?
+                      h5.text-center Al planear los costos, tenga en cuenta:
+                      p.mb-0.text-center Tamaño del <em>software</em> que se realizará, tiempo estimado de producción. ¿Se realizará el trabajo por módulos? ¿Se necesita contratar personal de apoyo para la producción y/o soporte? ¿Cómo se dará soporte técnico? (Por cuánto tiempo, presencial o remoto). ¿Se necesita adquirir equipos tecnológicos?
                       
 
 

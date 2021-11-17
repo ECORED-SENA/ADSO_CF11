@@ -9,7 +9,7 @@
       h1 La propuesta técnica
     
 
-    p.mb-4 La propuesta técnica es el documento que se entrega al posible cliente, en la cual se detalla la estrategia a desarrollar para darle solución a un problema existente, el contenido o formato de una propuesta puede variar según la empresa que lo solicita, si es privada, gubernamental, fundación o ONG, en estos casos se debe adaptar la propuesta a los formatos requeridos de las empresas. Una propuesta debe ser clara, concreta, explícita y fácil de entender.
+    p.mb-4 La propuesta técnica es el documento que se entrega al posible cliente, en la cual se detalla la estrategia a desarrollar para darle solución a un problema existente, el contenido o formato de una propuesta puede variar según la empresa que lo solicita, si es privada, gubernamental, fundación u ONG, en estos casos se debe adaptar la propuesta a los formatos requeridos de las empresas. Una propuesta debe ser clara, concreta, explícita y fácil de entender.
     
     .row.justify-content-center.mb-4
       .col-lg-12
@@ -38,13 +38,13 @@
                 p.mb-0 Alcance de la propuesta.
               li 
                 i.fas.fa-layer-group.pe-3
-                p.mb-0 Opciones de las propuestas de trabajo (dos o tres)
+                p.mb-0 Opciones de las propuestas de trabajo (dos o tres).
               li 
                 i.fas.fa-layer-group.pe-3
-                p.mb-0 Cotización por cada propuesta presentada
+                p.mb-0 Cotización por cada propuesta presentada.
               li 
                 i.fas.fa-layer-group.pe-3
-                p.mb-0 Condiciones (forma de pago)
+                p.mb-0 Condiciones (forma de pago).
               li 
                 i.fas.fa-layer-group.pe-3
                 p.mb-0 Conclusión y despedida.
@@ -58,7 +58,7 @@
     
     separador
     #t_2_2.titulo-segundo.color-acento-contenido
-      .h2 2.2 Términos de referencia (TdR)
+      .h2 2.2 Términos de Referencia (TdR)
     
     
     .row.justify-content-center.mb-5
@@ -72,7 +72,7 @@
           img.mx-auto(src='@/assets/curso/tema2/img3.png', alt='imagen ambiental', style='width: 600px;')
     
     
-    p.mb-5
+    p.mb-5 Estos son algunos aspectos importantes que usted debe tener en cuenta, en relación con los Términos de Referencia (TdR):
     
     .row.justify-content-center
       .col-lg-10
@@ -87,7 +87,7 @@
                 
           .row.justify-content-center(numero="2" titulo="Estructura del documento")
             .col-md-6.mb-4.mb-md-0.align-self-center
-              p.mb-0 La estructura de este documento tiene una Justificación, alcances del servicio, perfil de la empresa a contratar y condiciones contractuales.
+              p.mb-0 La estructura de este documento tiene una justificación, alcances del servicio, perfil de la empresa a contratar y condiciones contractuales.
               
             .col-8.col-md-5.align-self-center
               figure
@@ -95,7 +95,7 @@
                 
           .row.justify-content-center(numero="3" titulo="Cuando la empresa es nueva")
             .col-md-6.mb-4.mb-md-0.align-self-center
-              p.mb-0 Cuando una empresa es nueva y no maneja los TdR, lo que el experto informático debe hacer es acordar una reunión con las partes interesadas o también llamadas stakeholders, y hacerles preguntas sobre el funcionamiento de la empresa, los procesos que manejan, servicios que prestan y en qué sector económico están.
+              p.mb-0 Cuando una empresa es nueva y no maneja los TdR, lo que el experto informático debe hacer es acordar una reunión con las partes interesadas o también llamadas <em>stakeholders,</em> y hacerles preguntas sobre el funcionamiento de la empresa, los procesos que manejan, servicios que prestan y en qué sector económico están.
               
             .col-8.col-md-5.align-self-center
               figure
@@ -103,7 +103,7 @@
                 
           .row.justify-content-center(numero="4" titulo="Dialogar sobre el presupuesto")
             .col-md-6.mb-4.mb-md-0.align-self-center
-              p.mb-0 En la mayoría de las ocasiones, y en búsqueda de un servicio justo, será posible proponer un diálogo sobre el presupuesto proyectado para la solución de software; así mismo sobre la matriz DOFA de la empresa para tener claras sus necesidades y ofrécele los servicios adecuados en una propuesta técnica.
+              p.mb-0 En la mayoría de las ocasiones y en búsqueda de un servicio justo, será posible proponer un diálogo sobre el presupuesto proyectado para la solución de <em>software;</em> así mismo sobre la matriz DOFA de la empresa para tener claras sus necesidades y ofrecerle los servicios adecuados en una propuesta técnica.
               
             .col-8.col-md-5.align-self-center
               figure
@@ -121,9 +121,9 @@
       .col-lg-6.mb-4.mb-lg-0.ontop.pt-lg-4
         
         .bg--blue.neg--right.mb-4(style='background-color: #F3F9FF;')
-          p.mb-0 Es necesario, entonces, recordar que se debe tener una papelería adecuada que represente al negocio; el formato de documento, físico o virtual, debe contar con un diseño sobrio pero atractivo, el documento debe tener un encabezado en el cual debe ir el nombre de la empresa y el NIT o el nombre de la persona que trabaja freelance, este debe ir acompañado del logo. 
+          p.mb-0 Es necesario, entonces, recordar que se debe tener una papelería adecuada que represente al negocio; el formato de documento, físico o virtual, debe contar con un diseño sobrio pero atractivo, el documento debe tener un encabezado en el cual debe ir el nombre de la empresa y el NIT o el nombre de la persona que trabaja <em>freelance,</em> este debe ir acompañado del logo. 
           
-        p.mb-4 En el pie de página debe ir la dirección de la empresa y datos de contacto como números telefónicos correos, WhatsApp, Facebook, Instagram etc. Se debe tener en cuenta, como insumos principales, los TdR o la entrevista al momento de elaborar la propuesta.
+        p.mb-4 En el pie de página debe ir la dirección de la empresa y datos de contacto como números telefónicos, correos, WhatsApp, Facebook, Instagram, etc. Se debe tener en cuenta, como insumos principales, los TdR o la entrevista al momento de elaborar la propuesta.
         p.mb-4 Explore el recurso que se presenta a continuación y conozca a profundidad, los aspectos más importantes sobre la elaboración de la propuesta técnica:
           
       .col-10.col-lg-6
