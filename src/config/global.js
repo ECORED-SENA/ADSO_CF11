@@ -166,18 +166,18 @@ export default {
     {
       termino: '<em>Stakeholders</em>',
       significado:
-        'Partes Interesadas, desempeñan un papel clave en la elicitación, especificación y validación de los requerimientos de software.',
+        'Partes interesadas, desempeñan un papel clave en la elicitación, especificación y validación de los requerimientos de <em>software.</em>',
     },
     {
-      termino: 'TdR',
+      termino: 'TdR (Términos de Referencia)',
       significado:
-        'Término de Referencia: documento que elabora una empresa que necesita contratar a otras empresas para que le proporcionen determinados servicios para mejorar sus sistemas de mercadeo, de producción, de organización, sus finanzas o bien su administración en general.',
+        'documento que elabora una empresa que necesita contratar a otras empresas para que le proporcionen determinados servicios para mejorar sus sistemas de mercadeo, de producción, de organización, sus finanzas o bien su administración en general.',
     },
   ],
   complementario: [
     {
       texto:
-        'Starfish Host. (2020). Cómo hacer una propuesta de <em>Software</em> - ¡Presenta una propuesta de software exitosa! [Video]. YouTube.',
+        'Starfish Host. (2020). Cómo hacer una propuesta de <em>Software</em> - ¡Presenta una propuesta de <em>software</em> exitosa! [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=6zI4ZcRS8yg',
     },

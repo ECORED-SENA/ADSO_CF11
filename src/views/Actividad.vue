@@ -10,8 +10,8 @@
             img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 selección de imagenes y conceptos
-        p.mb-4 Afianzar algunos de los conceptos más importantes asociados al proceso de la propuesta técnica de servicios de <em> software</em>
+          h2 Selección de imagenes y conceptos
+        p.mb-4 Afianzar algunos de los conceptos más importantes asociados al proceso de la propuesta técnica de servicios de <em> software.</em>
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
