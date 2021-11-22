@@ -10,14 +10,14 @@
             img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Selección de imagenes y conceptos
-        p.mb-4 Afianzar algunos de los conceptos más importantes asociados al proceso de la propuesta técnica de servicios de <em> software.</em>
+          h2 Clasificar conceptos
+        p.mb-4 De acuerdo a los conceptos emitidos en este componente formativo, el aprendiz deberá relacionar las palabras clave con su respectiva definición arrastrándolas a la casilla correspondiente.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Asociación de imagenes y conceptos (concéntrense).
+              p.fw-bold.mb-0 ordenar/clasificar
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
 
